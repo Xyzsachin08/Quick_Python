@@ -35,14 +35,10 @@ print(h)'''
 '''a = input("Enter a name: ")
 print(f"Good Afternoon {a}")'''
 
-
+'''
 #WAP to fill in a letter template given below with name and date.
-letter = '''Dear\t<|Name|>,
+letter = ''#'Dear<|Name|>,
             you are selected! 
             <|Date|>'''
             
-print(letter.replace("<|Name|>","Harry").replace("<|Date|","24 september 2050"))
-
-
-
-
+#print(letter.replace("<|Name|>","Harry").replace("<|Date|","24 september 2050"))'''
