@@ -7,11 +7,11 @@ if(n>18):
     print("you are also mature")
 
 elif(n<0):
-    print("entering value is negative")
+    print("Entering value is negative")
     
 elif(n==0):
-    print("you are entering 0 value")
+    print("You are entering 0 value")
 else:
-    print("you are minor")
+    print("You are minor")
     
 print("End of program")
