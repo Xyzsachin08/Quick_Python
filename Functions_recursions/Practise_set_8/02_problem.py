@@ -1,4 +1,4 @@
-#WAP using function to convert Celsius to Fahrenheit
+#WAP using function to convert Fahreneit to Celsius
 
 
 def c_to_f(c):
