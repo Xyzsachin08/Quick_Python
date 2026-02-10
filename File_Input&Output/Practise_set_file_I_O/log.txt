@@ -1,0 +1,6 @@
+lorem435
+
+python is a implicitally language
+python is case sensitive language
+python is a high level language
+python feature: AI/ML/Data Analytics
