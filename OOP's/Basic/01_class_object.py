@@ -2,6 +2,14 @@ class Employee:
     language = "python"
     salary = 600000
     
-E1 = Employee()
+sachin = Employee()
+sachin.name = "borude"
+print(sachin.name, sachin.language, sachin.salary)
 
-print(E1.language, E1.salary)
+bhushan = Employee()
+bhushan.name = "tarte"
+print(bhushan.name, bhushan.language, bhushan.salary)
+
+
+#here name is a class attribute and lanaguage and salary is a class attribute 
+#that are directly belongs to the class
